@@ -1,0 +1,61 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/Verilog_Assgn/A15. Interrupt controller
+T_opt
+!s110 1779435974
+VFY[MYkd1ZeoGYm[GQD^GA3
+04 2 4 work tb fast 0
+=1-30d042048ec3-6a1009c5-140-3a90
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+R0
+vctlr
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 V380Q@<Y9F6a[9f?DA=_b0
+I2IBFZnV3nKlba_kGk9o7c0
+Z3 dF:/Resume projects/Interrupt controller
+w1753073782
+8RTL/intr_cntrlr.v
+FRTL/intr_cntrlr.v
+L0 1
+Z4 OL;L;10.7c;67
+31
+Z5 !s108 1779436246.000000
+Z6 !s107 RTL/intr_cntrlr.v|TB/tb_intr_cntrlr.v|
+Z7 !s90 -reportprogress|300|+incdir+RTL|TB/tb_intr_cntrlr.v|
+!i113 0
+Z8 !s92 +incdir+RTL
+R1
+vtb
+R2
+r1
+!s85 0
+!i10b 1
+!s100 2Z`k2DM>DOHbf1;G0=21z0
+Im?aYM53Wi1fWdF71CMNDd0
+R3
+w1753434824
+8TB/tb_intr_cntrlr.v
+FTB/tb_intr_cntrlr.v
+L0 3
+R4
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
