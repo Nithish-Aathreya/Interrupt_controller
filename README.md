@@ -15,3 +15,6 @@ A fully synthesisable, 16-line **priority interrupt controller (PIC)** implement
 <img width="1408" height="768" alt="Gemini_Generated_Image_bm1t0sbm1t0sbm1t" src="https://github.com/user-attachments/assets/01aa6411-9779-4a70-b6f7-265df75abebc" />
 
 ---
+## FSM
+<img width="1408" height="650" alt="Gemini_Generated_Image_jx9hy2jx9hy2jx9h" src="https://github.com/user-attachments/assets/ee638ac0-870b-4316-af66-a07aec13f1cb" />
+
