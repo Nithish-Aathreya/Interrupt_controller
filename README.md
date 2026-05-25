@@ -8,7 +8,10 @@ A fully synthesisable, 16-line **priority interrupt controller (PIC)** implement
 
 ## Block Diagram
 
-> **Upload your architecture diagram here.**
-> Replace this section with an image of your block diagram (e.g., `![Block Diagram](docs/block_diagram.png)`).
+
+<img width="1408" height="768" alt="Gemini_Generated_Image_75k6975k6975k697" src="https://github.com/user-attachments/assets/0dee5d4d-2232-44d2-b5e3-4863518316bb" />
+
+### Interrupt Register
+<img width="1408" height="768" alt="Gemini_Generated_Image_bm1t0sbm1t0sbm1t" src="https://github.com/user-attachments/assets/01aa6411-9779-4a70-b6f7-265df75abebc" />
 
 ---
